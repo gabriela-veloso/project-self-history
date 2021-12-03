@@ -1,0 +1,89 @@
+.nomeGabi{
+height: 50px;
+
+}
+
+.graduate {
+    display: flex;
+    width: 50%;
+    padding-left: 50px;
+}
+
+.graduateSection{
+    display: flex;
+    margin-right: -300px;
+    padding-top: 100px;
+}
+
+.header{
+    display:flex;
+    align-items: center;
+}
+
+
+.entrepeneur {
+    display: flex;
+    width: 70%;
+    
+}
+
+.entrepeneurSection{
+    display: flex;
+    padding-top: 100px;
+}
+
+
+.developer {
+    display: flex;
+    width: 80%;
+    
+}
+
+.developerSection{
+    display: flex;
+    padding-top: 100px;
+}
+
+.allJobs{
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.contact{
+    display:flex;
+    align-items: baseline;
+    width:100px;
+}
+
+.insta{
+    width: 50%;
+   }
+
+.instaSection{
+    padding: 0;
+    display:flex;
+    margin-right: -15px;
+}
+
+.linkedinSection{
+    padding: 0;
+    display:flex;
+    margin-right: -20px;
+
+}
+
+.githubSection{
+    padding: 0;
+    display:flex;
+    margin-right: -20px;
+}
+
+.linkedin{
+    width: 50%;
+}
+
+.github{
+    width: 50%;
+
+}
