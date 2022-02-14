@@ -10,4 +10,3 @@ O projeto foi desenvolvido e aperfeiçoado conforme conteúdo diário de aprendi
 - [  :white_check_mark:] JavaScript ES6
 - [  :white_check_mark:] Bibliotecas JavaScript e Frameworks CSS
 - [ :white_check_mark:] React
-- [  :white_check_mark:] React com Redux
