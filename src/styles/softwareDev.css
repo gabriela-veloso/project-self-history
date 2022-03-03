@@ -1,0 +1,41 @@
+.fotoPessoal{
+    max-width: 250px;
+    border-radius: 20px;
+    box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+    margin-left: 1rem;
+    margin-bottom: 50px;
+    }
+.divFotosPessoais {
+    display:flex;
+    flex-wrap:wrap ;
+    place-content: center;
+    min-width:auto;  
+    }
+.fotoPessoalEstendida{
+    max-width: 500px;
+    border-radius: 20px;
+    box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+    margin-left: 1rem;
+    margin-bottom: 50px;
+}
+.developer{
+    max-width: 100%;
+}
+.drawDeveloper{
+    display: flex;
+}
+footer{
+    font-family: La Belle Aurore,cursive;
+}
+.skills{
+    display: flex;
+    font-family: La Belle Aurore,cursive;
+    align-items: center;
+    color: gray;
+
+}
+h3:hover{
+font-size: large;
+color:black;
+transition: all 0.3s 0s ease-in-out;
+}

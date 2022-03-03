@@ -45,38 +45,38 @@ height: 50px;
 }
 
 .allJobs{
+    align-items: baseline;
     display: flex;
     justify-content: center;
-    align-items: baseline;
 }
 
 .contact{
-    display:flex;
     align-items: baseline;
+    display:flex;
     width:100px;
 }
 
 .insta{
     width: 50%;
-   }
+}
 
 .instaSection{
-    padding: 0;
     display:flex;
     margin-right: -15px;
+    padding: 0;
 }
 
 .linkedinSection{
-    padding: 0;
     display:flex;
     margin-right: -20px;
+    padding: 0;
 
 }
 
 .githubSection{
-    padding: 0;
     display:flex;
     margin-right: -20px;
+    padding: 0;
 }
 
 .linkedin{
@@ -91,4 +91,14 @@ height: 50px;
 .logoGQF {
     width: 20%;
 
+}
+footer{
+    bottom: 0;
+    display:flex;
+    color:gray;
+    place-content: center;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
 }
