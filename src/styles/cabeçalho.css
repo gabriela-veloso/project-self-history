@@ -1,0 +1,29 @@
+.cabeçalho{
+    display:flex;
+    justify-content:  space-between;
+}
+button {
+    font-size: 16px;
+    letter-spacing: 1px;
+    font-weight: 400 !important;
+    background-color: darkgray;
+    border:solid;
+    color: #fff;
+    padding: 16px 40px;
+    margin: 15px;
+    text-align: center;
+    display: inline-block !important;
+    text-decoration: none;
+    border: 0px;
+    width: max-content;
+    cursor: pointer;
+    transition: all 0.3s 0s ease-in-out;
+    border-radius: 30px;
+    font-family: La Belle Aurore,cursive;
+}
+
+button:hover {
+    transform: scale(1.04, 1);
+    background-color:darkgrey;
+    text-decoration: none;
+}
