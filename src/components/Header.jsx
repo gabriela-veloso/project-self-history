@@ -1,12 +1,15 @@
 import React from 'react';
 import '../styles/home.css';
+import { Link } from 'react-router-dom';
 
 class Header extends React.Component{
     render() {
         return (
             <section className="header">
                 <section>
+                <Link to='/SobreMim'>
                 <img src='https://clickbabynames.com/wp-content/uploads/baby-name-gabriela-clickbabynames3-scaled.jpg' className='nomeGabi' alt='nomeGabi'/>
+                </Link>
                 </section>
 
                 <section className="contact">
