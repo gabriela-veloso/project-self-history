@@ -22,6 +22,7 @@ class SoftwareDev extends React.Component{
             </Link>
             <div className='skills'>
                 <ul>
+                    <h1>Em construção ...</h1>
                     <h3>Front-end Developer</h3>
                     <h3>Back-end Developer</h3>
                     <h3>Full Stack Developer</h3>
